@@ -148,5 +148,8 @@ int main() {
   std::cout << nCr(n,r);
   std::cout << std::endl;
 }
+long Factorial(int no){
+   
+}
 ```
 
